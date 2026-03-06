@@ -7,7 +7,7 @@ Combines AES-256-GCM with multiple obfuscation layers for end-to-end encryption 
 ## Installation
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/gmasson/lacryptjs@0.2.0/src/lacrypt.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/gmasson/lacryptjs@main/src/lacrypt.min.js"></script>
 ```
 
 Or download `src/lacrypt.min.js` and include it locally.
@@ -117,3 +117,4 @@ MIT - See [LICENSE](LICENSE) for details.
 ## Contributing
 
 Contributions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
